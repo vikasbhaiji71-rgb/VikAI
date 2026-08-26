@@ -1,0 +1,10 @@
+{
+  "name": "VikAi AI Assistant",
+  "description": "Real-time, voice-to-voice AI assistant with a confident, witty, and playfully charming persona powered by Gemini Live audio.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
